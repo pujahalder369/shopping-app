@@ -8,7 +8,6 @@ import WishList from './pages/WishList';
 import LoginPage from './pages/Login';
 import ProtectedRoute from './components/ProtectedRoute';
 import MobileTab from './components/HomeTopRow/MobileTab';
-import FashionPage from './components/HomeTopRow/fashion';
 import Electronics from './components/HomeTopRow/Electronics';
 import Appliances from './components/HomeTopRow/Appliances';
 import Furniture from './components/HomeTopRow/Furniture';
@@ -16,6 +15,8 @@ import Jewellery from './components/HomeTopRow/Jewellery';
 import Toys from './components/HomeTopRow/Toys';
 import Grocery from './components/HomeTopRow/Grocery';
 import Bags from './components/HomeTopRow/Bags';
+import FashionPage from './components/HomeTopRow/FashionPage';
+
 
 function App() {
 
